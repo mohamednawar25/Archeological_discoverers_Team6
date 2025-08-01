@@ -652,7 +652,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Optimization Time**: ~45 seconds (50 iterations, 10 sites)
 - **Analysis Time**: ~15 seconds (full suite)
 - **Memory Usage**: ~200MB peak usage
-
+Project Presentation: https://docs.google.com/presentation/d/1h1fw2Eil0LSoj8NtlHBnqOf8_PTQzfB1/edit?usp=sharing&ouid=103001706805214775664&rtpof=true&sd=true
 ---
 
 **🚀⚛️ Quantum Archaeological Discovery System - Revolutionizing Archaeological Site Selection with Quantum Computing**
+
